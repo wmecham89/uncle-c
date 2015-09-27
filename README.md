@@ -1,2 +1,2 @@
-# uncle-c.github.io
+# uncle-c
 Uncle C's Angling Adventures
